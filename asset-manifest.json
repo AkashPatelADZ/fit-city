@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fit-city/static/css/main.029f55e5.css",
-    "main.js": "/fit-city/static/js/main.d543d9fc.js",
+    "main.js": "/fit-city/static/js/main.ce6ec64a.js",
     "index.html": "/fit-city/index.html",
     "main.029f55e5.css.map": "/fit-city/static/css/main.029f55e5.css.map",
-    "main.d543d9fc.js.map": "/fit-city/static/js/main.d543d9fc.js.map"
+    "main.ce6ec64a.js.map": "/fit-city/static/js/main.ce6ec64a.js.map"
   },
   "entrypoints": [
     "static/css/main.029f55e5.css",
-    "static/js/main.d543d9fc.js"
+    "static/js/main.ce6ec64a.js"
   ]
 }
